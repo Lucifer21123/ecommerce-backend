@@ -14,15 +14,6 @@ This is a node.js backend for an e-commerce site utilizing mysql2, sequalize, an
 * [Credits](#credits)
 * [License](#license)
 
-## Ecommerce Backend Demo
-
-### YouTube video demonstration
-[YouTube Video](https://youtu.be/V9Uxh-zEuZI)
-
-## Repository
-
-Repository at [Charles Fisher](https://github.com/cdfishe1/ecommerce-backend)
-
 ## Installation
 
 Execute npm install to download the required dependenices: [dotenv](https://www.npmjs.com/package/dotenv), [express](https://www.npmjs.com/package/express), [mysql2](https://www.npmjs.com/package/mysql2), [sequelize](https://www.npmjs.com/package/sequelize).
